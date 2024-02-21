@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DailyQuotesApp</string>
+    <string name="quotes1">Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</string>
+    <string name="quotes2">Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</string>
+    <string name="quotes3">A good plan violently executed now is better than a perfect plan executed next week.</string>
+    <string name="quotes4">If you\'re going through hell, keep going.</string>
+    <string name="quotes5">Good, better, best. Never let it rest. Til your good is better and your better is best.</string>
+    <string name="quotes6">Either you run the day or the day runs you.</string>
+    <string name="quotes7">Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</string>
+    <string name="quotes8">It always seems impossible until it\'s done.</string>
+    <string name="quotes9">It does not matter how slowly you go as long as you do not stop.</string>
+    <string name="q1">Today you are you, that is truer than true. There is no one alive, who is more youer than you.</string>
+    <string name="q2">Today I shall behave as if this is the day I will be remembered.</string>
+    <string name="q3">I\'m responsible for my own happiness? I can\'t even be responsible for my own breakfast!</string>
+    <string name="q4">It gets easier. Every day it gets a little easier. But you gotta do it everyday. that\'s the hard part.</string>
+    <string name="q5">attitude is the little thing that makes a big difference.</string>
+    <string name="q6">Be so good they can\'t ignore you.</string>
+    <string name="q7">You only live once, but if you work it right, once is enough.</string>
+    <string name="q8">I have no special talent, I am only passionately curious.</string>
+    <string name="q9">We will fail when we fail to try.</string>
+    <string name="q10">I have learned not to allow rejection to move me.</string>
+    <string name="a1">Dr Seuss</string>
+    <string name="a2">Dr Seuss</string>
+    <string name="a3">Bojack Horseman</string>
+    <string name="a4">Bojack Horseman</string>
+    <string name="a5">Winston Churchill</string>
+    <string name="a6">Steve Martin</string>
+    <string name="a7">Joe E Lewis</string>
+    <string name="a8">Albert Einstein</string>
+    <string name="a9">Rosa Parks</string>
+    <string name="a10">Cicely Tyson</string>
+
+</resources>
